@@ -1,0 +1,35 @@
+{
+    "name": "pnpm",
+    "version": "1.0.0",
+    "description": "PNPM Project",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.2.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "helmet": "^6.0.1",
+        "mongoose": "^6.7.5",
+        "winston": "^3.8.2",
+        "winston-mongodb": "^5.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.0.1",
+        "eslint-config-standard": "^17.0.0",
+        "eslint-plugin-import": "^2.25.2",
+        "eslint-plugin-n": "^15.0.0",
+        "eslint-plugin-promise": "^6.0.0",
+        "nodemon": "^2.0.20"
+    },
+    "engines": {
+        "npm": ">=9.1.1",
+        "node": ">=18.12.1"
+    }
+}
