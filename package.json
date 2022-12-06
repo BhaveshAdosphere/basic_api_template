@@ -1,7 +1,7 @@
 {
     "name": "pnpm",
     "version": "1.0.0",
-    "description": "PNPM Project",
+    "description": "create-basic-express-api",
     "type": "module",
     "main": "index.js",
     "scripts": {

@@ -2,7 +2,7 @@
 
 **Steps to Follow**
 
-1. Install Performant Node Package Manager (PNPM)
+1. Install Performant Node Package Manager (PNPM) - (Only if not installed)
    `npm i -g pnpm`
 2. Install required dependencies
    `pnpm i`
